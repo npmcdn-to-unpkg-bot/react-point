@@ -26,10 +26,10 @@ import PointTarget from 'react-point'
 var PointTarget = require('react-point')
 ```
 
-The UMD build is also available on [npmcdn](https://npmcdn.com):
+The UMD build is also available on [unpkg](https://unpkg.com):
 
 ```html
-<script src="https://npmcdn.com/react-point/umd/react-point.min.js"></script>
+<script src="https://unpkg.com/react-point/umd/react-point.min.js"></script>
 ```
 
 You can find the library on `window.ReactPoint`.
